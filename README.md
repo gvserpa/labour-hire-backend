@@ -101,4 +101,4 @@ npm run dev
 ---
 
 ## Links
-- Frontend Repository: 
+- Frontend Repository: (https://labour-hire-frontend.vercel.app/)
