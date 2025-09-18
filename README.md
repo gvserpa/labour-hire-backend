@@ -101,5 +101,4 @@ npm run dev
 ---
 
 ## Links
-- GitHub Repository: [insert public GitHub link here]
-- Frontend Repository: [insert frontend link here]
+- Frontend Repository: 
