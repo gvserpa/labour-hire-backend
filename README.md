@@ -1,5 +1,9 @@
 # Labour Hire Backend
 
+## LIVE FRONT-END
+
+https://labour-hire-frontend.vercel.app/
+
 ## Description
 The Labour Hire Backend is the server-side of the full-stack **Labour Hire** project, where users can:
 - Sign up and log in (authentication using JWT and bcrypt)
@@ -101,4 +105,4 @@ npm run dev
 ---
 
 ## Links
-- Frontend Repository: (https://labour-hire-frontend.vercel.app/)
+- Frontend Repository: https://github.com/gvserpa/labour-hire-frontend 
